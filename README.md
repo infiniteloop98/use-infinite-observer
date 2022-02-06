@@ -2,7 +2,7 @@
 
 # Introduction
 
-React hooks for `MutationObserver` class
+React custom hook for `MutationObserver` class
 
 # Installation
 
