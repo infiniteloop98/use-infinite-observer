@@ -22,4 +22,4 @@ To see an example open src/App.js file
 | -------- | :-------------------------------------------------------------------: | -------: | ---------------------------------------------------- |
 | element  |                            Target element                             |     Node | undefined                                            |
 | callback | The callback function is called when the element object shape changed | Function | undefined                                            |
-| config   |                        Observer config object                         | Function | { attributes: true, childList: true, subtree: true } |
+| config   |                        Observer config object                         |   Object | { attributes: true, childList: true, subtree: true } |
