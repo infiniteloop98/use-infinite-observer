@@ -16,6 +16,8 @@ React hooks for `MutationObserver` class
 
 `create(element, callback, config)`
 
+To see an example open src/App.js file
+
 | Argument |                              Description                              |     Type | Default                                              |
 | -------- | :-------------------------------------------------------------------: | -------: | ---------------------------------------------------- |
 | element  |                            Target element                             |     Node | undefined                                            |
